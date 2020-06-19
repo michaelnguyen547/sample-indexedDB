@@ -1,0 +1,7 @@
+.footer {
+    padding: 3rem 1.5rem 3rem;
+}
+
+.modal-card-head, .modal-card-foot {
+    border-radius: 0;
+}
